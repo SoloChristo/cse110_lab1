@@ -28,6 +28,15 @@ Now here is a list of the schools I went to
 3. Palomar College (2017-2020)
 4. University of California San Diego (2020-Present) 
 
+A list of languages I know
+
+* C/C++
+* Javascript
+* Python
+* C#
+* Sagemath
+
+
 - [x] Headings
 - [x] Styling text
 - [x] Quoting text
