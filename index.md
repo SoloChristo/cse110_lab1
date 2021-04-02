@@ -15,12 +15,23 @@ gives to each programmer and it does not worry to much about keeping you safe
 from the computer. This reminds me of my favorite quotes. 
 > To err is human, but to really foul things up you need a computer. - Paul R. Ehrlich
 
+And now for a random code snippet 
+```javascript
+    if (isAwesome){
+        return false
+    }
+```
+Now here is a list of the schools I went to
 
+1. Carlsbad High School (2010-2014)
+2. MiraCosta College (2014-2020)
+3. Palomar College (2017-2020)
+4. University of California San Diego (2020-Present) 
 
 - [x] Headings
 - [x] Styling text
-- [ ] Quoting text
-- [ ] Quoting code
+- [x] Quoting text
+- [x] Quoting code
 - [ ] External Links
 - [ ] Section links
 - [ ] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
