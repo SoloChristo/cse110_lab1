@@ -12,8 +12,8 @@ language I learned and gained knowledge in. However, I always loved the idea
 that programmers have full control over the computer that they are programming.
 So, I needed a language that was not Java. *C++* values the power the a computer
 gives to each programmer and it does not worry to much about keeping you safe 
-from the con
-
+from the computer. This reminds me of my favorite quotes. 
+> To err is human, but to really foul things up you need a computer. - Paul R. Ehrlich
 
 
 
