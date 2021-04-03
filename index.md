@@ -9,10 +9,10 @@ I started programming in 2014, my first language was
 python, although I did not really start coding
 until I was at **Miracosta College**. Java, was really the first
 language I learned and gained knowledge in. However, I always loved the idea
-that programmers have full control over the computer that they are programming.
-So, I needed a language that was not Java. *C++* values the power the a computer
-gives to each programmer and it does not worry to much about keeping you safe 
-from the computer. This reminds me of my favorite quotes. 
+that programmers should have full control over their computers hardware.
+So, I needed a language that was not Java. *C++* values the power that computers
+give to each programmer and it does not worry to much about keeping you safe 
+from the computers oddities. This reminds me of one of my favorite quotes. 
 > To err is human, but to really foul things up you need a computer. - Paul R. Ehrlich
 
 And now for a random code snippet 
@@ -21,14 +21,14 @@ And now for a random code snippet
         return false
     }
 ```
-Now here is a list of the schools I went to
 
+# Schools 
 1. Carlsbad High School (2010-2014)
 2. MiraCosta College (2014-2020)
 3. Palomar College (2017-2020)
 4. University of California San Diego (2020-Present) 
 
-A list of languages I know
+# Languages
 
 * C/C++
 * Javascript
@@ -36,16 +36,18 @@ A list of languages I know
 * C#
 * Sagemath
 
+# links
 Here is a external link to the [Bold move cotton](https://www.youtube.com/watch?v=uLr0v9MyGgM&ab_channel=TommyBiglow)
 
 [README FILE](README.md)
 
+[schools attended](#schools)
 - [x] Headings
 - [x] Styling text
 - [x] Quoting text
 - [x] Quoting code
 - [x] External Links
-- [ ] Section links
+- [x] Section links
 - [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 - [x] Ordered and Unordered Lists
 - [x] Task lists
