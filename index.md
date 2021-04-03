@@ -36,7 +36,7 @@ A list of languages I know
 * C#
 * Sagemath
 
-Here is a link to the [README FILE](https://github.com/SoloChristo/cse110_lab1/blob/main/README.md)
+Here is a external link to the [Bold move cotton](https://www.youtube.com/watch?v=uLr0v9MyGgM&ab_channel=TommyBiglow)
 
 [README FILE](README.md)
 
@@ -44,7 +44,7 @@ Here is a link to the [README FILE](https://github.com/SoloChristo/cse110_lab1/b
 - [x] Styling text
 - [x] Quoting text
 - [x] Quoting code
-- [ ] External Links
+- [x] External Links
 - [ ] Section links
 - [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 - [x] Ordered and Unordered Lists
