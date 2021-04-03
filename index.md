@@ -36,9 +36,9 @@ A list of languages I know
 * C#
 * Sagemath
 
-This is a reference link to the read [readme][README]
-[README]: ./README.md "repo README file"
+Here is a link to the [README FILE](https://github.com/SoloChristo/cse110_lab1/blob/main/README.md)
 
+[README FILE](README.md)
 
 - [x] Headings
 - [x] Styling text
