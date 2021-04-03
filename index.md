@@ -36,6 +36,9 @@ A list of languages I know
 * C#
 * Sagemath
 
+This is a reference link to the read [readme][README]
+[README]: ./README.md "repo README file"
+
 
 - [x] Headings
 - [x] Styling text
@@ -43,8 +46,8 @@ A list of languages I know
 - [x] Quoting code
 - [ ] External Links
 - [ ] Section links
-- [ ] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
-- [ ] Ordered and Unordered Lists
+- [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [x] Ordered and Unordered Lists
 - [x] Task lists
 
 
